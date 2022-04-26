@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Békéscsaba",
+        "population": 58002
+    },
+    {
+        "name": "Budapest",
+        "population": 1723836
+    },
+    {
+        "name": "Debrecen",
+        "population": 200974
+    },
+    {
+        "name": "Eger",
+        "population": 51168
+    },
+    {
+        "name": "Győr",
+        "population": 132735
+    },
+    {
+        "name": "Kaposvár",
+        "population": 59777
+    },
+    {
+        "name": "Kecskemét",
+        "population": 109651
+    },
+    {
+        "name": "Miskolc",
+        "population": 150695
+    },
+    {
+        "name": "Nyíregyháza",
+        "population": 116554
+    },
+    {
+        "name": "Pécs",
+        "population": 140237
+    },
+    {
+        "name": "Salgótarján",
+        "population": 32304
+    },
+    {
+        "name": "Szeged",
+        "population": 159074
+    },
+    {
+        "name": "Székesfehérvár",
+        "population": 95545
+    },
+    {
+        "name": "Szekszárd",
+        "population": 30963
+    },
+    {
+        "name": "Szolnok",
+        "population": 69725
+    },
+    {
+        "name": "Szombathely",
+        "population": 78324
+    },
+    {
+        "name": "Tatabánya",
+        "population": 65145
+    },
+    {
+        "name": "Veszprém",
+        "population": 58153
+    },
+    {
+        "name": "Zalaegerszeg",
+        "population": 55470
+    }
+]

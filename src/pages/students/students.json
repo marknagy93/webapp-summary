@@ -1,0 +1,3614 @@
+[
+	{
+		"name": "Bálint Olivér Ferenc",
+		"gender": "Férfi",
+		"birthDate": "2013-09-28",
+		"class": "1/A"
+	},
+	{
+		"name": "Barna Andrea Klára",
+		"gender": "Nő",
+		"birthDate": "2014-04-07",
+		"class": "1/A"
+	},
+	{
+		"name": "Barta Nóra",
+		"gender": "Nő",
+		"birthDate": "2014-08-17",
+		"class": "1/A"
+	},
+	{
+		"name": "Bogdán Ernő",
+		"gender": "Férfi",
+		"birthDate": "2013-09-06",
+		"class": "1/A"
+	},
+	{
+		"name": "Budai Erik",
+		"gender": "Férfi",
+		"birthDate": "2014-07-23",
+		"class": "1/A"
+	},
+	{
+		"name": "Fábián György",
+		"gender": "Férfi",
+		"birthDate": "2014-06-26",
+		"class": "1/A"
+	},
+	{
+		"name": "Faragó Dezső Ádám",
+		"gender": "Férfi",
+		"birthDate": "2014-01-28",
+		"class": "1/A"
+	},
+	{
+		"name": "Gáspár Ernő",
+		"gender": "Férfi",
+		"birthDate": "2014-03-19",
+		"class": "1/A"
+	},
+	{
+		"name": "Kelemen Sándor",
+		"gender": "Férfi",
+		"birthDate": "2013-09-18",
+		"class": "1/A"
+	},
+	{
+		"name": "Kocsis Margit Fanni",
+		"gender": "Nő",
+		"birthDate": "2014-05-28",
+		"class": "1/A"
+	},
+	{
+		"name": "Kozma Zsófia Andrea",
+		"gender": "Nő",
+		"birthDate": "2014-07-04",
+		"class": "1/A"
+	},
+	{
+		"name": "Lengyel Rózsa Renáta",
+		"gender": "Nő",
+		"birthDate": "2014-08-10",
+		"class": "1/A"
+	},
+	{
+		"name": "Magyar Szilveszter Andor",
+		"gender": "Férfi",
+		"birthDate": "2014-07-14",
+		"class": "1/A"
+	},
+	{
+		"name": "Márton László",
+		"gender": "Férfi",
+		"birthDate": "2014-04-29",
+		"class": "1/A"
+	},
+	{
+		"name": "Máté Emese",
+		"gender": "Nő",
+		"birthDate": "2013-10-19",
+		"class": "1/A"
+	},
+	{
+		"name": "Mészáros Benedek",
+		"gender": "Férfi",
+		"birthDate": "2014-06-05",
+		"class": "1/A"
+	},
+	{
+		"name": "Nagy Béla",
+		"gender": "Férfi",
+		"birthDate": "2013-11-28",
+		"class": "1/A"
+	},
+	{
+		"name": "Nagy Jázmin",
+		"gender": "Nő",
+		"birthDate": "2014-02-28",
+		"class": "1/A"
+	},
+	{
+		"name": "Somogyi Regina Ágnes",
+		"gender": "Nő",
+		"birthDate": "2014-08-25",
+		"class": "1/A"
+	},
+	{
+		"name": "Szalai Barna Endre",
+		"gender": "Férfi",
+		"birthDate": "2014-07-08",
+		"class": "1/A"
+	},
+	{
+		"name": "Tóth Dóra Anna",
+		"gender": "Nő",
+		"birthDate": "2014-06-18",
+		"class": "1/A"
+	},
+	{
+		"name": "Váradi Endre",
+		"gender": "Férfi",
+		"birthDate": "2013-10-27",
+		"class": "1/A"
+	},
+	{
+		"name": "Balog Júlia Éva",
+		"gender": "Nő",
+		"birthDate": "2014-07-05",
+		"class": "1/B"
+	},
+	{
+		"name": "Fehér Hanna",
+		"gender": "Nő",
+		"birthDate": "2014-03-28",
+		"class": "1/B"
+	},
+	{
+		"name": "Fekete Ibolya",
+		"gender": "Nő",
+		"birthDate": "2014-02-24",
+		"class": "1/B"
+	},
+	{
+		"name": "Gáspár Krisztofer József",
+		"gender": "Férfi",
+		"birthDate": "2013-09-29",
+		"class": "1/B"
+	},
+	{
+		"name": "Gáspár Mónika",
+		"gender": "Nő",
+		"birthDate": "2014-08-24",
+		"class": "1/B"
+	},
+	{
+		"name": "Jakab Csongor",
+		"gender": "Férfi",
+		"birthDate": "2014-05-05",
+		"class": "1/B"
+	},
+	{
+		"name": "Jakab Dezső",
+		"gender": "Férfi",
+		"birthDate": "2013-11-20",
+		"class": "1/B"
+	},
+	{
+		"name": "Jónás Szabolcs Zsombor",
+		"gender": "Férfi",
+		"birthDate": "2014-07-20",
+		"class": "1/B"
+	},
+	{
+		"name": "Juhász Ferenc Barna",
+		"gender": "Férfi",
+		"birthDate": "2014-03-16",
+		"class": "1/B"
+	},
+	{
+		"name": "Király Dominik",
+		"gender": "Férfi",
+		"birthDate": "2013-10-26",
+		"class": "1/B"
+	},
+	{
+		"name": "Mezei Győző",
+		"gender": "Férfi",
+		"birthDate": "2014-08-16",
+		"class": "1/B"
+	},
+	{
+		"name": "Oláh Tünde Beatrix",
+		"gender": "Nő",
+		"birthDate": "2013-09-18",
+		"class": "1/B"
+	},
+	{
+		"name": "Orbán Erzsébet Bernadett",
+		"gender": "Nő",
+		"birthDate": "2014-07-11",
+		"class": "1/B"
+	},
+	{
+		"name": "Orbán Gréta Etelka",
+		"gender": "Nő",
+		"birthDate": "2014-07-31",
+		"class": "1/B"
+	},
+	{
+		"name": "Pál Ábel",
+		"gender": "Férfi",
+		"birthDate": "2014-06-23",
+		"class": "1/B"
+	},
+	{
+		"name": "Papp Attila",
+		"gender": "Férfi",
+		"birthDate": "2014-07-03",
+		"class": "1/B"
+	},
+	{
+		"name": "Péter Emma Júlia",
+		"gender": "Nő",
+		"birthDate": "2013-12-11",
+		"class": "1/B"
+	},
+	{
+		"name": "Rácz Vilmos",
+		"gender": "Férfi",
+		"birthDate": "2014-05-31",
+		"class": "1/B"
+	},
+	{
+		"name": "Sárközi Krisztián Róbert",
+		"gender": "Férfi",
+		"birthDate": "2013-09-22",
+		"class": "1/B"
+	},
+	{
+		"name": "Somogyi Erik",
+		"gender": "Férfi",
+		"birthDate": "2014-04-26",
+		"class": "1/B"
+	},
+	{
+		"name": "Székely Károly",
+		"gender": "Férfi",
+		"birthDate": "2014-06-13",
+		"class": "1/B"
+	},
+	{
+		"name": "Balázs Eszter",
+		"gender": "Nő",
+		"birthDate": "2013-10-26",
+		"class": "1/C"
+	},
+	{
+		"name": "Balla Szilárd Antal",
+		"gender": "Férfi",
+		"birthDate": "2014-06-21",
+		"class": "1/C"
+	},
+	{
+		"name": "Balog Szabolcs",
+		"gender": "Férfi",
+		"birthDate": "2014-02-13",
+		"class": "1/C"
+	},
+	{
+		"name": "Csonka István",
+		"gender": "Férfi",
+		"birthDate": "2013-10-31",
+		"class": "1/C"
+	},
+	{
+		"name": "Csonka Tamás Bendegúz",
+		"gender": "Férfi",
+		"birthDate": "2013-09-21",
+		"class": "1/C"
+	},
+	{
+		"name": "Deák Henrietta",
+		"gender": "Nő",
+		"birthDate": "2013-09-29",
+		"class": "1/C"
+	},
+	{
+		"name": "Faragó Rebeka Orsolya",
+		"gender": "Nő",
+		"birthDate": "2013-09-06",
+		"class": "1/C"
+	},
+	{
+		"name": "Fazekas Réka",
+		"gender": "Nő",
+		"birthDate": "2014-03-22",
+		"class": "1/C"
+	},
+	{
+		"name": "Gál Tünde Zsuzsanna",
+		"gender": "Nő",
+		"birthDate": "2014-05-04",
+		"class": "1/C"
+	},
+	{
+		"name": "Hajdu Antal",
+		"gender": "Férfi",
+		"birthDate": "2014-07-05",
+		"class": "1/C"
+	},
+	{
+		"name": "Hajdu Hajnalka",
+		"gender": "Nő",
+		"birthDate": "2014-07-10",
+		"class": "1/C"
+	},
+	{
+		"name": "Juhász Árpád",
+		"gender": "Férfi",
+		"birthDate": "2014-06-06",
+		"class": "1/C"
+	},
+	{
+		"name": "Kiss Mátyás",
+		"gender": "Férfi",
+		"birthDate": "2014-07-23",
+		"class": "1/C"
+	},
+	{
+		"name": "László Pál",
+		"gender": "Férfi",
+		"birthDate": "2014-06-30",
+		"class": "1/C"
+	},
+	{
+		"name": "Magyar Márk",
+		"gender": "Férfi",
+		"birthDate": "2014-03-09",
+		"class": "1/C"
+	},
+	{
+		"name": "Máté Nándor",
+		"gender": "Férfi",
+		"birthDate": "2014-07-19",
+		"class": "1/C"
+	},
+	{
+		"name": "Mészáros Dávid Máté",
+		"gender": "Férfi",
+		"birthDate": "2014-05-29",
+		"class": "1/C"
+	},
+	{
+		"name": "Mezei Lajos",
+		"gender": "Férfi",
+		"birthDate": "2013-12-03",
+		"class": "1/C"
+	},
+	{
+		"name": "Nemes Sándor",
+		"gender": "Férfi",
+		"birthDate": "2014-08-18",
+		"class": "1/C"
+	},
+	{
+		"name": "Somogyi Anikó",
+		"gender": "Nő",
+		"birthDate": "2014-08-11",
+		"class": "1/C"
+	},
+	{
+		"name": "Vincze Tibor Mátyás",
+		"gender": "Férfi",
+		"birthDate": "2014-04-18",
+		"class": "1/C"
+	},
+	{
+		"name": "Berki Jázmin",
+		"gender": "Nő",
+		"birthDate": "2013-07-22",
+		"class": "2/A"
+	},
+	{
+		"name": "Deák Vince Pál",
+		"gender": "Férfi",
+		"birthDate": "2012-11-13",
+		"class": "2/A"
+	},
+	{
+		"name": "Farkas Benedek",
+		"gender": "Férfi",
+		"birthDate": "2013-03-06",
+		"class": "2/A"
+	},
+	{
+		"name": "Hegedűs Endre",
+		"gender": "Férfi",
+		"birthDate": "2012-10-08",
+		"class": "2/A"
+	},
+	{
+		"name": "Jakab Géza",
+		"gender": "Férfi",
+		"birthDate": "2013-05-14",
+		"class": "2/A"
+	},
+	{
+		"name": "Kelemen Krisztofer",
+		"gender": "Férfi",
+		"birthDate": "2013-01-28",
+		"class": "2/A"
+	},
+	{
+		"name": "Kocsis Viktor Dezső",
+		"gender": "Férfi",
+		"birthDate": "2012-10-28",
+		"class": "2/A"
+	},
+	{
+		"name": "Lengyel Gréta",
+		"gender": "Nő",
+		"birthDate": "2012-11-27",
+		"class": "2/A"
+	},
+	{
+		"name": "Lukács Szilveszter Vilmos",
+		"gender": "Férfi",
+		"birthDate": "2013-01-10",
+		"class": "2/A"
+	},
+	{
+		"name": "Máté Dániel",
+		"gender": "Férfi",
+		"birthDate": "2013-04-20",
+		"class": "2/A"
+	},
+	{
+		"name": "Mészáros Benjámin",
+		"gender": "Férfi",
+		"birthDate": "2012-12-12",
+		"class": "2/A"
+	},
+	{
+		"name": "Orbán Valéria",
+		"gender": "Nő",
+		"birthDate": "2013-05-31",
+		"class": "2/A"
+	},
+	{
+		"name": "Orsós Nikoletta Petra",
+		"gender": "Nő",
+		"birthDate": "2012-09-09",
+		"class": "2/A"
+	},
+	{
+		"name": "Pintér Hunor",
+		"gender": "Férfi",
+		"birthDate": "2012-10-26",
+		"class": "2/A"
+	},
+	{
+		"name": "Szűcs Géza",
+		"gender": "Férfi",
+		"birthDate": "2013-06-17",
+		"class": "2/A"
+	},
+	{
+		"name": "Szűcs Roland",
+		"gender": "Férfi",
+		"birthDate": "2013-03-31",
+		"class": "2/A"
+	},
+	{
+		"name": "Vörös Sándor",
+		"gender": "Férfi",
+		"birthDate": "2012-12-18",
+		"class": "2/A"
+	},
+	{
+		"name": "Balog Aranka Magdolna",
+		"gender": "Nő",
+		"birthDate": "2013-05-08",
+		"class": "2/B"
+	},
+	{
+		"name": "Bodnár Endre",
+		"gender": "Férfi",
+		"birthDate": "2012-10-25",
+		"class": "2/B"
+	},
+	{
+		"name": "Fodor Bence",
+		"gender": "Férfi",
+		"birthDate": "2012-10-27",
+		"class": "2/B"
+	},
+	{
+		"name": "Fodor Marianna",
+		"gender": "Nő",
+		"birthDate": "2013-06-15",
+		"class": "2/B"
+	},
+	{
+		"name": "Gulyás Bálint Norbert",
+		"gender": "Férfi",
+		"birthDate": "2013-07-09",
+		"class": "2/B"
+	},
+	{
+		"name": "Hajdu Dénes",
+		"gender": "Férfi",
+		"birthDate": "2012-09-08",
+		"class": "2/B"
+	},
+	{
+		"name": "Hegedüs Brigitta",
+		"gender": "Nő",
+		"birthDate": "2013-05-30",
+		"class": "2/B"
+	},
+	{
+		"name": "Kiss Barna Szilárd",
+		"gender": "Férfi",
+		"birthDate": "2013-02-27",
+		"class": "2/B"
+	},
+	{
+		"name": "Kozma József",
+		"gender": "Férfi",
+		"birthDate": "2012-09-20",
+		"class": "2/B"
+	},
+	{
+		"name": "Lakatos Diána",
+		"gender": "Nő",
+		"birthDate": "2013-01-21",
+		"class": "2/B"
+	},
+	{
+		"name": "Lakatos Marcell",
+		"gender": "Férfi",
+		"birthDate": "2012-12-12",
+		"class": "2/B"
+	},
+	{
+		"name": "Pintér Hajnalka Anikó",
+		"gender": "Nő",
+		"birthDate": "2012-11-12",
+		"class": "2/B"
+	},
+	{
+		"name": "Rácz Benett",
+		"gender": "Férfi",
+		"birthDate": "2013-01-02",
+		"class": "2/B"
+	},
+	{
+		"name": "Sárközi Regina",
+		"gender": "Nő",
+		"birthDate": "2013-08-20",
+		"class": "2/B"
+	},
+	{
+		"name": "Szabó Brigitta",
+		"gender": "Nő",
+		"birthDate": "2012-12-17",
+		"class": "2/B"
+	},
+	{
+		"name": "Tóth Áron",
+		"gender": "Férfi",
+		"birthDate": "2012-11-26",
+		"class": "2/B"
+	},
+	{
+		"name": "Veres Orsolya",
+		"gender": "Nő",
+		"birthDate": "2013-04-19",
+		"class": "2/B"
+	},
+	{
+		"name": "Vörös Boglárka Erzsébet",
+		"gender": "Nő",
+		"birthDate": "2013-03-24",
+		"class": "2/B"
+	},
+	{
+		"name": "Antal Zsigmond Ernő",
+		"gender": "Férfi",
+		"birthDate": "2012-12-06",
+		"class": "2/C"
+	},
+	{
+		"name": "Dudás Benett",
+		"gender": "Férfi",
+		"birthDate": "2012-11-16",
+		"class": "2/C"
+	},
+	{
+		"name": "Hegedüs Aranka Rita",
+		"gender": "Nő",
+		"birthDate": "2013-08-08",
+		"class": "2/C"
+	},
+	{
+		"name": "Kelemen Antal",
+		"gender": "Férfi",
+		"birthDate": "2013-02-16",
+		"class": "2/C"
+	},
+	{
+		"name": "Lakatos Benedek",
+		"gender": "Férfi",
+		"birthDate": "2013-03-08",
+		"class": "2/C"
+	},
+	{
+		"name": "László Nimród",
+		"gender": "Férfi",
+		"birthDate": "2012-12-14",
+		"class": "2/C"
+	},
+	{
+		"name": "Major Ottó György",
+		"gender": "Férfi",
+		"birthDate": "2012-10-31",
+		"class": "2/C"
+	},
+	{
+		"name": "Németh Gyöngyi",
+		"gender": "Nő",
+		"birthDate": "2013-01-11",
+		"class": "2/C"
+	},
+	{
+		"name": "Novák Virág",
+		"gender": "Nő",
+		"birthDate": "2012-10-26",
+		"class": "2/C"
+	},
+	{
+		"name": "Orsós Annamária",
+		"gender": "Nő",
+		"birthDate": "2013-06-07",
+		"class": "2/C"
+	},
+	{
+		"name": "Pataki Tamás",
+		"gender": "Férfi",
+		"birthDate": "2013-06-23",
+		"class": "2/C"
+	},
+	{
+		"name": "Sipos Anikó Lili",
+		"gender": "Nő",
+		"birthDate": "2012-12-24",
+		"class": "2/C"
+	},
+	{
+		"name": "Sipos Kálmán Attila",
+		"gender": "Férfi",
+		"birthDate": "2013-05-03",
+		"class": "2/C"
+	},
+	{
+		"name": "Sipos Martin",
+		"gender": "Férfi",
+		"birthDate": "2013-04-06",
+		"class": "2/C"
+	},
+	{
+		"name": "Somogyi Kálmán",
+		"gender": "Férfi",
+		"birthDate": "2013-05-26",
+		"class": "2/C"
+	},
+	{
+		"name": "Török Patrik",
+		"gender": "Férfi",
+		"birthDate": "2012-09-20",
+		"class": "2/C"
+	},
+	{
+		"name": "Vörös Miklós",
+		"gender": "Férfi",
+		"birthDate": "2012-10-11",
+		"class": "2/C"
+	},
+	{
+		"name": "Balla Brigitta",
+		"gender": "Nő",
+		"birthDate": "2012-08-04",
+		"class": "3/A"
+	},
+	{
+		"name": "Borbély Bernadett",
+		"gender": "Nő",
+		"birthDate": "2012-03-20",
+		"class": "3/A"
+	},
+	{
+		"name": "Csonka Csenge",
+		"gender": "Nő",
+		"birthDate": "2012-05-09",
+		"class": "3/A"
+	},
+	{
+		"name": "Dudás Márk Zalán",
+		"gender": "Férfi",
+		"birthDate": "2012-05-25",
+		"class": "3/A"
+	},
+	{
+		"name": "Fábián Gábor",
+		"gender": "Férfi",
+		"birthDate": "2011-10-15",
+		"class": "3/A"
+	},
+	{
+		"name": "Fekete Barna Bence",
+		"gender": "Férfi",
+		"birthDate": "2011-11-26",
+		"class": "3/A"
+	},
+	{
+		"name": "Fodor Rózsa Jolán",
+		"gender": "Nő",
+		"birthDate": "2012-02-21",
+		"class": "3/A"
+	},
+	{
+		"name": "Halász Margit",
+		"gender": "Nő",
+		"birthDate": "2011-12-31",
+		"class": "3/A"
+	},
+	{
+		"name": "Kerekes Kitti",
+		"gender": "Nő",
+		"birthDate": "2012-08-27",
+		"class": "3/A"
+	},
+	{
+		"name": "Kiss Alexandra Andrea",
+		"gender": "Nő",
+		"birthDate": "2012-03-06",
+		"class": "3/A"
+	},
+	{
+		"name": "Magyar Martin",
+		"gender": "Férfi",
+		"birthDate": "2011-12-16",
+		"class": "3/A"
+	},
+	{
+		"name": "Molnár Nikolett Teréz",
+		"gender": "Nő",
+		"birthDate": "2012-01-15",
+		"class": "3/A"
+	},
+	{
+		"name": "Nemes Ádám",
+		"gender": "Férfi",
+		"birthDate": "2012-06-23",
+		"class": "3/A"
+	},
+	{
+		"name": "Nemes László",
+		"gender": "Férfi",
+		"birthDate": "2011-12-28",
+		"class": "3/A"
+	},
+	{
+		"name": "Nemes Tibor",
+		"gender": "Férfi",
+		"birthDate": "2011-09-14",
+		"class": "3/A"
+	},
+	{
+		"name": "Németh Áron István",
+		"gender": "Férfi",
+		"birthDate": "2011-09-02",
+		"class": "3/A"
+	},
+	{
+		"name": "Péter Erika Szilvia",
+		"gender": "Nő",
+		"birthDate": "2011-11-01",
+		"class": "3/A"
+	},
+	{
+		"name": "Rácz Alex Ádám",
+		"gender": "Férfi",
+		"birthDate": "2012-04-12",
+		"class": "3/A"
+	},
+	{
+		"name": "Sándor Vince",
+		"gender": "Férfi",
+		"birthDate": "2012-04-29",
+		"class": "3/A"
+	},
+	{
+		"name": "Szilágyi Bertalan Szilveszter",
+		"gender": "Férfi",
+		"birthDate": "2012-05-18",
+		"class": "3/A"
+	},
+	{
+		"name": "Szilágyi Ervin",
+		"gender": "Férfi",
+		"birthDate": "2012-07-02",
+		"class": "3/A"
+	},
+	{
+		"name": "Szőke Győző Nándor",
+		"gender": "Férfi",
+		"birthDate": "2012-07-19",
+		"class": "3/A"
+	},
+	{
+		"name": "Takács Barna",
+		"gender": "Férfi",
+		"birthDate": "2011-12-03",
+		"class": "3/A"
+	},
+	{
+		"name": "Tóth Áron",
+		"gender": "Férfi",
+		"birthDate": "2012-07-13",
+		"class": "3/A"
+	},
+	{
+		"name": "Vass Erzsébet",
+		"gender": "Nő",
+		"birthDate": "2012-03-23",
+		"class": "3/A"
+	},
+	{
+		"name": "Balog Márta",
+		"gender": "Nő",
+		"birthDate": "2012-08-13",
+		"class": "3/B"
+	},
+	{
+		"name": "Berki Bendegúz Róbert",
+		"gender": "Férfi",
+		"birthDate": "2011-11-25",
+		"class": "3/B"
+	},
+	{
+		"name": "Bogdán Olivér",
+		"gender": "Férfi",
+		"birthDate": "2011-12-06",
+		"class": "3/B"
+	},
+	{
+		"name": "Borbély Veronika",
+		"gender": "Nő",
+		"birthDate": "2011-09-13",
+		"class": "3/B"
+	},
+	{
+		"name": "Budai Virág",
+		"gender": "Nő",
+		"birthDate": "2011-10-30",
+		"class": "3/B"
+	},
+	{
+		"name": "Farkas Bence György",
+		"gender": "Férfi",
+		"birthDate": "2012-03-22",
+		"class": "3/B"
+	},
+	{
+		"name": "Fodor Endre",
+		"gender": "Férfi",
+		"birthDate": "2012-03-05",
+		"class": "3/B"
+	},
+	{
+		"name": "Illés Ádám",
+		"gender": "Férfi",
+		"birthDate": "2011-10-03",
+		"class": "3/B"
+	},
+	{
+		"name": "Katona Csaba Rudolf",
+		"gender": "Férfi",
+		"birthDate": "2011-12-27",
+		"class": "3/B"
+	},
+	{
+		"name": "Kovács Patrik",
+		"gender": "Férfi",
+		"birthDate": "2012-07-02",
+		"class": "3/B"
+	},
+	{
+		"name": "Kovács Veronika",
+		"gender": "Nő",
+		"birthDate": "2011-11-30",
+		"class": "3/B"
+	},
+	{
+		"name": "Lakatos Bernadett",
+		"gender": "Nő",
+		"birthDate": "2012-07-10",
+		"class": "3/B"
+	},
+	{
+		"name": "Lengyel Krisztina",
+		"gender": "Nő",
+		"birthDate": "2012-05-05",
+		"class": "3/B"
+	},
+	{
+		"name": "Máté Erzsébet Margit",
+		"gender": "Nő",
+		"birthDate": "2012-04-20",
+		"class": "3/B"
+	},
+	{
+		"name": "Orosz Róbert",
+		"gender": "Férfi",
+		"birthDate": "2011-12-30",
+		"class": "3/B"
+	},
+	{
+		"name": "Orosz Tímea",
+		"gender": "Nő",
+		"birthDate": "2012-04-05",
+		"class": "3/B"
+	},
+	{
+		"name": "Orsós Botond",
+		"gender": "Férfi",
+		"birthDate": "2012-07-27",
+		"class": "3/B"
+	},
+	{
+		"name": "Pál Bernadett Hanna",
+		"gender": "Nő",
+		"birthDate": "2012-05-23",
+		"class": "3/B"
+	},
+	{
+		"name": "Pál Tímea",
+		"gender": "Nő",
+		"birthDate": "2012-02-07",
+		"class": "3/B"
+	},
+	{
+		"name": "Rácz Dávid",
+		"gender": "Férfi",
+		"birthDate": "2012-01-10",
+		"class": "3/B"
+	},
+	{
+		"name": "Rácz Viktória Jázmin",
+		"gender": "Nő",
+		"birthDate": "2012-03-15",
+		"class": "3/B"
+	},
+	{
+		"name": "Rácz Virág Ilona",
+		"gender": "Nő",
+		"birthDate": "2012-07-14",
+		"class": "3/B"
+	},
+	{
+		"name": "Sárközi Nimród Péter",
+		"gender": "Férfi",
+		"birthDate": "2012-06-06",
+		"class": "3/B"
+	},
+	{
+		"name": "Sipos Marcell",
+		"gender": "Férfi",
+		"birthDate": "2012-05-10",
+		"class": "3/B"
+	},
+	{
+		"name": "Balla Csenge Mária",
+		"gender": "Nő",
+		"birthDate": "2012-07-09",
+		"class": "3/C"
+	},
+	{
+		"name": "Balog Aranka",
+		"gender": "Nő",
+		"birthDate": "2011-12-04",
+		"class": "3/C"
+	},
+	{
+		"name": "Biró Hanna",
+		"gender": "Nő",
+		"birthDate": "2012-01-02",
+		"class": "3/C"
+	},
+	{
+		"name": "Bogdán Győző",
+		"gender": "Férfi",
+		"birthDate": "2012-05-10",
+		"class": "3/C"
+	},
+	{
+		"name": "Bognár Kornél",
+		"gender": "Férfi",
+		"birthDate": "2012-04-18",
+		"class": "3/C"
+	},
+	{
+		"name": "Borbély Csenge",
+		"gender": "Nő",
+		"birthDate": "2011-11-15",
+		"class": "3/C"
+	},
+	{
+		"name": "Borbély Máté",
+		"gender": "Férfi",
+		"birthDate": "2012-03-26",
+		"class": "3/C"
+	},
+	{
+		"name": "Budai Arnold",
+		"gender": "Férfi",
+		"birthDate": "2012-05-01",
+		"class": "3/C"
+	},
+	{
+		"name": "Deák Szilveszter Tamás",
+		"gender": "Férfi",
+		"birthDate": "2012-08-08",
+		"class": "3/C"
+	},
+	{
+		"name": "Fazekas Viktor",
+		"gender": "Férfi",
+		"birthDate": "2012-07-14",
+		"class": "3/C"
+	},
+	{
+		"name": "Jakab Szabolcs",
+		"gender": "Férfi",
+		"birthDate": "2012-01-18",
+		"class": "3/C"
+	},
+	{
+		"name": "Kerekes Irén",
+		"gender": "Nő",
+		"birthDate": "2011-10-18",
+		"class": "3/C"
+	},
+	{
+		"name": "Mészáros Noel",
+		"gender": "Férfi",
+		"birthDate": "2012-05-27",
+		"class": "3/C"
+	},
+	{
+		"name": "Mezei Martin",
+		"gender": "Férfi",
+		"birthDate": "2012-08-27",
+		"class": "3/C"
+	},
+	{
+		"name": "Nagy Hajnalka Laura",
+		"gender": "Nő",
+		"birthDate": "2012-03-22",
+		"class": "3/C"
+	},
+	{
+		"name": "Orbán Bernadett",
+		"gender": "Nő",
+		"birthDate": "2011-12-20",
+		"class": "3/C"
+	},
+	{
+		"name": "Orbán Zsanett",
+		"gender": "Nő",
+		"birthDate": "2011-12-30",
+		"class": "3/C"
+	},
+	{
+		"name": "Pál Ádám",
+		"gender": "Férfi",
+		"birthDate": "2012-05-21",
+		"class": "3/C"
+	},
+	{
+		"name": "Pintér Magdolna",
+		"gender": "Nő",
+		"birthDate": "2011-09-09",
+		"class": "3/C"
+	},
+	{
+		"name": "Sárközi Zita",
+		"gender": "Nő",
+		"birthDate": "2012-02-27",
+		"class": "3/C"
+	},
+	{
+		"name": "Szalai Csongor",
+		"gender": "Férfi",
+		"birthDate": "2012-07-20",
+		"class": "3/C"
+	},
+	{
+		"name": "Szűcs Vilmos",
+		"gender": "Férfi",
+		"birthDate": "2011-11-28",
+		"class": "3/C"
+	},
+	{
+		"name": "Tóth Dorottya",
+		"gender": "Nő",
+		"birthDate": "2012-06-30",
+		"class": "3/C"
+	},
+	{
+		"name": "Török Sára",
+		"gender": "Nő",
+		"birthDate": "2011-09-28",
+		"class": "3/C"
+	},
+	{
+		"name": "Varga Lajos",
+		"gender": "Férfi",
+		"birthDate": "2012-03-14",
+		"class": "3/C"
+	},
+	{
+		"name": "Bálint Márk Áron",
+		"gender": "Férfi",
+		"birthDate": "2011-02-12",
+		"class": "4/A"
+	},
+	{
+		"name": "Barna Imre",
+		"gender": "Férfi",
+		"birthDate": "2011-05-10",
+		"class": "4/A"
+	},
+	{
+		"name": "Bogdán Dominik Károly",
+		"gender": "Férfi",
+		"birthDate": "2010-11-26",
+		"class": "4/A"
+	},
+	{
+		"name": "Fazekas Zsófia Dorottya",
+		"gender": "Nő",
+		"birthDate": "2010-09-27",
+		"class": "4/A"
+	},
+	{
+		"name": "Halász Sára",
+		"gender": "Nő",
+		"birthDate": "2011-06-11",
+		"class": "4/A"
+	},
+	{
+		"name": "Hegedüs Benedek",
+		"gender": "Férfi",
+		"birthDate": "2011-06-02",
+		"class": "4/A"
+	},
+	{
+		"name": "Kiss Dávid Árpád",
+		"gender": "Férfi",
+		"birthDate": "2010-09-25",
+		"class": "4/A"
+	},
+	{
+		"name": "Lakatos Dorottya Kinga",
+		"gender": "Nő",
+		"birthDate": "2010-11-16",
+		"class": "4/A"
+	},
+	{
+		"name": "Lengyel Levente Károly",
+		"gender": "Férfi",
+		"birthDate": "2011-03-07",
+		"class": "4/A"
+	},
+	{
+		"name": "Molnár Ottó",
+		"gender": "Férfi",
+		"birthDate": "2011-02-21",
+		"class": "4/A"
+	},
+	{
+		"name": "Novák Martin",
+		"gender": "Férfi",
+		"birthDate": "2010-10-21",
+		"class": "4/A"
+	},
+	{
+		"name": "Orosz Emese Klára",
+		"gender": "Nő",
+		"birthDate": "2011-07-07",
+		"class": "4/A"
+	},
+	{
+		"name": "Pap Áron Csaba",
+		"gender": "Férfi",
+		"birthDate": "2011-07-18",
+		"class": "4/A"
+	},
+	{
+		"name": "Pásztor Katalin",
+		"gender": "Nő",
+		"birthDate": "2011-08-04",
+		"class": "4/A"
+	},
+	{
+		"name": "Simon Nóra",
+		"gender": "Nő",
+		"birthDate": "2011-05-23",
+		"class": "4/A"
+	},
+	{
+		"name": "Simon Tímea Kinga",
+		"gender": "Nő",
+		"birthDate": "2011-05-01",
+		"class": "4/A"
+	},
+	{
+		"name": "Sipos Ágnes Rebeka",
+		"gender": "Nő",
+		"birthDate": "2011-01-21",
+		"class": "4/A"
+	},
+	{
+		"name": "Sipos Marianna Borbála",
+		"gender": "Nő",
+		"birthDate": "2011-03-24",
+		"class": "4/A"
+	},
+	{
+		"name": "Somogyi Borbála",
+		"gender": "Nő",
+		"birthDate": "2011-04-24",
+		"class": "4/A"
+	},
+	{
+		"name": "Szőke Milán",
+		"gender": "Férfi",
+		"birthDate": "2011-01-14",
+		"class": "4/A"
+	},
+	{
+		"name": "Veres Laura",
+		"gender": "Nő",
+		"birthDate": "2010-12-29",
+		"class": "4/A"
+	},
+	{
+		"name": "Vincze Ádám",
+		"gender": "Férfi",
+		"birthDate": "2010-10-31",
+		"class": "4/A"
+	},
+	{
+		"name": "Vincze Csenge Erzsébet",
+		"gender": "Nő",
+		"birthDate": "2010-09-13",
+		"class": "4/A"
+	},
+	{
+		"name": "Balázs Géza Levente",
+		"gender": "Férfi",
+		"birthDate": "2011-05-09",
+		"class": "4/B"
+	},
+	{
+		"name": "Barta Barna",
+		"gender": "Férfi",
+		"birthDate": "2011-01-06",
+		"class": "4/B"
+	},
+	{
+		"name": "Biró Nimród",
+		"gender": "Férfi",
+		"birthDate": "2010-11-10",
+		"class": "4/B"
+	},
+	{
+		"name": "Bognár Mária",
+		"gender": "Nő",
+		"birthDate": "2010-12-05",
+		"class": "4/B"
+	},
+	{
+		"name": "Borbély Krisztina",
+		"gender": "Nő",
+		"birthDate": "2011-01-16",
+		"class": "4/B"
+	},
+	{
+		"name": "Budai Ákos",
+		"gender": "Férfi",
+		"birthDate": "2011-07-30",
+		"class": "4/B"
+	},
+	{
+		"name": "Budai Soma",
+		"gender": "Férfi",
+		"birthDate": "2010-10-30",
+		"class": "4/B"
+	},
+	{
+		"name": "Gáspár Csongor",
+		"gender": "Férfi",
+		"birthDate": "2011-02-08",
+		"class": "4/B"
+	},
+	{
+		"name": "Gulyás Hanna",
+		"gender": "Nő",
+		"birthDate": "2011-04-22",
+		"class": "4/B"
+	},
+	{
+		"name": "Hajdu Barbara",
+		"gender": "Nő",
+		"birthDate": "2010-09-26",
+		"class": "4/B"
+	},
+	{
+		"name": "Hegedüs Rudolf",
+		"gender": "Férfi",
+		"birthDate": "2011-03-23",
+		"class": "4/B"
+	},
+	{
+		"name": "Jakab Erika",
+		"gender": "Nő",
+		"birthDate": "2011-03-03",
+		"class": "4/B"
+	},
+	{
+		"name": "Jakab Györgyi Melinda",
+		"gender": "Nő",
+		"birthDate": "2011-06-08",
+		"class": "4/B"
+	},
+	{
+		"name": "Juhász Jolán",
+		"gender": "Nő",
+		"birthDate": "2010-09-22",
+		"class": "4/B"
+	},
+	{
+		"name": "Kis Pál",
+		"gender": "Férfi",
+		"birthDate": "2011-02-21",
+		"class": "4/B"
+	},
+	{
+		"name": "Lukács Endre András",
+		"gender": "Férfi",
+		"birthDate": "2011-06-23",
+		"class": "4/B"
+	},
+	{
+		"name": "Mészáros Levente",
+		"gender": "Férfi",
+		"birthDate": "2011-08-15",
+		"class": "4/B"
+	},
+	{
+		"name": "Novák Ottó Tibor",
+		"gender": "Férfi",
+		"birthDate": "2011-04-27",
+		"class": "4/B"
+	},
+	{
+		"name": "Oláh Emese Boglárka",
+		"gender": "Nő",
+		"birthDate": "2010-11-21",
+		"class": "4/B"
+	},
+	{
+		"name": "Pásztor Hunor",
+		"gender": "Férfi",
+		"birthDate": "2010-10-19",
+		"class": "4/B"
+	},
+	{
+		"name": "Szalai Dénes",
+		"gender": "Férfi",
+		"birthDate": "2011-05-28",
+		"class": "4/B"
+	},
+	{
+		"name": "Tóth Annamária",
+		"gender": "Nő",
+		"birthDate": "2011-05-23",
+		"class": "4/B"
+	},
+	{
+		"name": "Vörös Rózsa Luca",
+		"gender": "Nő",
+		"birthDate": "2011-07-12",
+		"class": "4/B"
+	},
+	{
+		"name": "Barna Lili",
+		"gender": "Nő",
+		"birthDate": "2011-02-17",
+		"class": "4/C"
+	},
+	{
+		"name": "Berki Kálmán",
+		"gender": "Férfi",
+		"birthDate": "2011-03-02",
+		"class": "4/C"
+	},
+	{
+		"name": "Bognár Klaudia",
+		"gender": "Nő",
+		"birthDate": "2011-05-22",
+		"class": "4/C"
+	},
+	{
+		"name": "Dudás Adrienn",
+		"gender": "Nő",
+		"birthDate": "2011-01-25",
+		"class": "4/C"
+	},
+	{
+		"name": "Fekete Beatrix",
+		"gender": "Nő",
+		"birthDate": "2010-11-17",
+		"class": "4/C"
+	},
+	{
+		"name": "Fekete Zsanett Aranka",
+		"gender": "Nő",
+		"birthDate": "2010-10-31",
+		"class": "4/C"
+	},
+	{
+		"name": "Hegedüs Aranka",
+		"gender": "Nő",
+		"birthDate": "2010-09-16",
+		"class": "4/C"
+	},
+	{
+		"name": "Juhász Szabolcs",
+		"gender": "Férfi",
+		"birthDate": "2011-03-18",
+		"class": "4/C"
+	},
+	{
+		"name": "Kovács Gabriella Márta",
+		"gender": "Nő",
+		"birthDate": "2010-10-17",
+		"class": "4/C"
+	},
+	{
+		"name": "Kozma Petra",
+		"gender": "Nő",
+		"birthDate": "2011-03-27",
+		"class": "4/C"
+	},
+	{
+		"name": "Lakatos Adrienn",
+		"gender": "Nő",
+		"birthDate": "2011-06-02",
+		"class": "4/C"
+	},
+	{
+		"name": "Lengyel Gusztáv Árpád",
+		"gender": "Férfi",
+		"birthDate": "2011-07-11",
+		"class": "4/C"
+	},
+	{
+		"name": "Lengyel Márton János",
+		"gender": "Férfi",
+		"birthDate": "2010-12-31",
+		"class": "4/C"
+	},
+	{
+		"name": "Lukács Olivér",
+		"gender": "Férfi",
+		"birthDate": "2011-05-01",
+		"class": "4/C"
+	},
+	{
+		"name": "Molnár Bianka",
+		"gender": "Nő",
+		"birthDate": "2010-12-04",
+		"class": "4/C"
+	},
+	{
+		"name": "Németh Bence",
+		"gender": "Férfi",
+		"birthDate": "2010-09-26",
+		"class": "4/C"
+	},
+	{
+		"name": "Novák Anikó Annamária",
+		"gender": "Nő",
+		"birthDate": "2011-05-23",
+		"class": "4/C"
+	},
+	{
+		"name": "Orsós Zoltán",
+		"gender": "Férfi",
+		"birthDate": "2011-04-25",
+		"class": "4/C"
+	},
+	{
+		"name": "Pataki Miklós Alex",
+		"gender": "Férfi",
+		"birthDate": "2011-07-21",
+		"class": "4/C"
+	},
+	{
+		"name": "Pintér Rozália",
+		"gender": "Nő",
+		"birthDate": "2011-01-15",
+		"class": "4/C"
+	},
+	{
+		"name": "Szücs Dominik",
+		"gender": "Férfi",
+		"birthDate": "2011-06-15",
+		"class": "4/C"
+	},
+	{
+		"name": "Tóth Márton Ákos",
+		"gender": "Férfi",
+		"birthDate": "2011-08-10",
+		"class": "4/C"
+	},
+	{
+		"name": "Vincze Ákos Károly",
+		"gender": "Férfi",
+		"birthDate": "2010-10-29",
+		"class": "4/C"
+	},
+	{
+		"name": "Antal Bálint Nándor",
+		"gender": "Férfi",
+		"birthDate": "2010-08-14",
+		"class": "5/A"
+	},
+	{
+		"name": "Bálint Ágnes",
+		"gender": "Nő",
+		"birthDate": "2009-09-18",
+		"class": "5/A"
+	},
+	{
+		"name": "Fehér Réka",
+		"gender": "Nő",
+		"birthDate": "2010-04-09",
+		"class": "5/A"
+	},
+	{
+		"name": "Gál Nikoletta",
+		"gender": "Nő",
+		"birthDate": "2009-11-05",
+		"class": "5/A"
+	},
+	{
+		"name": "Hegedüs Dorottya Alexandra",
+		"gender": "Nő",
+		"birthDate": "2010-02-27",
+		"class": "5/A"
+	},
+	{
+		"name": "Illés Valéria",
+		"gender": "Nő",
+		"birthDate": "2010-07-13",
+		"class": "5/A"
+	},
+	{
+		"name": "Jakab Sára",
+		"gender": "Nő",
+		"birthDate": "2010-04-28",
+		"class": "5/A"
+	},
+	{
+		"name": "Jónás János",
+		"gender": "Férfi",
+		"birthDate": "2009-09-08",
+		"class": "5/A"
+	},
+	{
+		"name": "Kozma Zsuzsanna",
+		"gender": "Nő",
+		"birthDate": "2010-08-25",
+		"class": "5/A"
+	},
+	{
+		"name": "Lengyel Márta",
+		"gender": "Nő",
+		"birthDate": "2010-05-16",
+		"class": "5/A"
+	},
+	{
+		"name": "Lukács Fanni",
+		"gender": "Nő",
+		"birthDate": "2009-12-10",
+		"class": "5/A"
+	},
+	{
+		"name": "Németh Iván",
+		"gender": "Férfi",
+		"birthDate": "2010-04-20",
+		"class": "5/A"
+	},
+	{
+		"name": "Orosz Dénes Jenő",
+		"gender": "Férfi",
+		"birthDate": "2010-05-30",
+		"class": "5/A"
+	},
+	{
+		"name": "Pataki Jenő Béla",
+		"gender": "Férfi",
+		"birthDate": "2010-07-03",
+		"class": "5/A"
+	},
+	{
+		"name": "Pataki Milán",
+		"gender": "Férfi",
+		"birthDate": "2010-08-01",
+		"class": "5/A"
+	},
+	{
+		"name": "Rácz Krisztina",
+		"gender": "Nő",
+		"birthDate": "2010-08-04",
+		"class": "5/A"
+	},
+	{
+		"name": "Somogyi Bálint",
+		"gender": "Férfi",
+		"birthDate": "2009-10-01",
+		"class": "5/A"
+	},
+	{
+		"name": "Soós Andrea",
+		"gender": "Nő",
+		"birthDate": "2010-06-03",
+		"class": "5/A"
+	},
+	{
+		"name": "Soós Emese",
+		"gender": "Nő",
+		"birthDate": "2010-07-20",
+		"class": "5/A"
+	},
+	{
+		"name": "Székely Jázmin Csilla",
+		"gender": "Nő",
+		"birthDate": "2009-11-30",
+		"class": "5/A"
+	},
+	{
+		"name": "Szőke Erik Gergely",
+		"gender": "Férfi",
+		"birthDate": "2010-03-12",
+		"class": "5/A"
+	},
+	{
+		"name": "Vass Benett Viktor",
+		"gender": "Férfi",
+		"birthDate": "2010-01-20",
+		"class": "5/A"
+	},
+	{
+		"name": "Vincze Regina",
+		"gender": "Nő",
+		"birthDate": "2009-12-04",
+		"class": "5/A"
+	},
+	{
+		"name": "Vörös Tibor",
+		"gender": "Férfi",
+		"birthDate": "2009-09-04",
+		"class": "5/A"
+	},
+	{
+		"name": "Balog Terézia",
+		"gender": "Nő",
+		"birthDate": "2010-06-28",
+		"class": "5/B"
+	},
+	{
+		"name": "Balogh József",
+		"gender": "Férfi",
+		"birthDate": "2009-09-17",
+		"class": "5/B"
+	},
+	{
+		"name": "Berki Ábel",
+		"gender": "Férfi",
+		"birthDate": "2010-02-26",
+		"class": "5/B"
+	},
+	{
+		"name": "Deák Edit",
+		"gender": "Nő",
+		"birthDate": "2010-07-12",
+		"class": "5/B"
+	},
+	{
+		"name": "Dudás Aranka",
+		"gender": "Nő",
+		"birthDate": "2010-03-11",
+		"class": "5/B"
+	},
+	{
+		"name": "Fábián Pál",
+		"gender": "Férfi",
+		"birthDate": "2010-01-16",
+		"class": "5/B"
+	},
+	{
+		"name": "Faragó Dorina",
+		"gender": "Nő",
+		"birthDate": "2010-04-24",
+		"class": "5/B"
+	},
+	{
+		"name": "Gál Mátyás",
+		"gender": "Férfi",
+		"birthDate": "2010-05-28",
+		"class": "5/B"
+	},
+	{
+		"name": "Gáspár Szilárd",
+		"gender": "Férfi",
+		"birthDate": "2010-04-12",
+		"class": "5/B"
+	},
+	{
+		"name": "Király Albert",
+		"gender": "Férfi",
+		"birthDate": "2009-09-03",
+		"class": "5/B"
+	},
+	{
+		"name": "László Kálmán",
+		"gender": "Férfi",
+		"birthDate": "2009-09-21",
+		"class": "5/B"
+	},
+	{
+		"name": "Lengyel György",
+		"gender": "Férfi",
+		"birthDate": "2009-12-09",
+		"class": "5/B"
+	},
+	{
+		"name": "Magyar Barna",
+		"gender": "Férfi",
+		"birthDate": "2010-08-03",
+		"class": "5/B"
+	},
+	{
+		"name": "Márton Regina",
+		"gender": "Nő",
+		"birthDate": "2009-10-21",
+		"class": "5/B"
+	},
+	{
+		"name": "Mészáros Csongor",
+		"gender": "Férfi",
+		"birthDate": "2009-12-02",
+		"class": "5/B"
+	},
+	{
+		"name": "Molnár Balázs",
+		"gender": "Férfi",
+		"birthDate": "2010-06-02",
+		"class": "5/B"
+	},
+	{
+		"name": "Molnár Norbert",
+		"gender": "Férfi",
+		"birthDate": "2010-05-11",
+		"class": "5/B"
+	},
+	{
+		"name": "Németh Zétény",
+		"gender": "Férfi",
+		"birthDate": "2010-07-19",
+		"class": "5/B"
+	},
+	{
+		"name": "Orosz Izabella Nóra",
+		"gender": "Nő",
+		"birthDate": "2010-08-12",
+		"class": "5/B"
+	},
+	{
+		"name": "Rácz Márk",
+		"gender": "Férfi",
+		"birthDate": "2010-07-25",
+		"class": "5/B"
+	},
+	{
+		"name": "Simon Iván",
+		"gender": "Férfi",
+		"birthDate": "2010-04-09",
+		"class": "5/B"
+	},
+	{
+		"name": "Sipos Tünde",
+		"gender": "Nő",
+		"birthDate": "2010-08-30",
+		"class": "5/B"
+	},
+	{
+		"name": "Szilágyi Ágnes Luca",
+		"gender": "Nő",
+		"birthDate": "2010-08-23",
+		"class": "5/B"
+	},
+	{
+		"name": "Veres Albert",
+		"gender": "Férfi",
+		"birthDate": "2009-11-13",
+		"class": "5/B"
+	},
+	{
+		"name": "Vörös Magdolna",
+		"gender": "Nő",
+		"birthDate": "2009-09-08",
+		"class": "5/B"
+	},
+	{
+		"name": "Balogh Nikolett",
+		"gender": "Nő",
+		"birthDate": "2009-09-04",
+		"class": "5/C"
+	},
+	{
+		"name": "Biró Irén Zsuzsanna",
+		"gender": "Nő",
+		"birthDate": "2010-08-17",
+		"class": "5/C"
+	},
+	{
+		"name": "Bogdán Aranka",
+		"gender": "Nő",
+		"birthDate": "2010-07-20",
+		"class": "5/C"
+	},
+	{
+		"name": "Borbély Krisztián Gusztáv",
+		"gender": "Férfi",
+		"birthDate": "2009-11-10",
+		"class": "5/C"
+	},
+	{
+		"name": "Budai Lajos",
+		"gender": "Férfi",
+		"birthDate": "2010-05-31",
+		"class": "5/C"
+	},
+	{
+		"name": "Deák Kornél",
+		"gender": "Férfi",
+		"birthDate": "2010-04-10",
+		"class": "5/C"
+	},
+	{
+		"name": "Fábián Terézia",
+		"gender": "Nő",
+		"birthDate": "2010-08-01",
+		"class": "5/C"
+	},
+	{
+		"name": "Faragó Orsolya",
+		"gender": "Nő",
+		"birthDate": "2009-09-09",
+		"class": "5/C"
+	},
+	{
+		"name": "Fazekas Zsigmond",
+		"gender": "Férfi",
+		"birthDate": "2009-12-01",
+		"class": "5/C"
+	},
+	{
+		"name": "Fehér Réka",
+		"gender": "Nő",
+		"birthDate": "2009-09-01",
+		"class": "5/C"
+	},
+	{
+		"name": "Fekete Jázmin",
+		"gender": "Nő",
+		"birthDate": "2010-08-26",
+		"class": "5/C"
+	},
+	{
+		"name": "Gáspár Csilla",
+		"gender": "Nő",
+		"birthDate": "2010-04-23",
+		"class": "5/C"
+	},
+	{
+		"name": "Hegedűs Márk",
+		"gender": "Férfi",
+		"birthDate": "2009-10-04",
+		"class": "5/C"
+	},
+	{
+		"name": "Jónás Soma",
+		"gender": "Férfi",
+		"birthDate": "2010-08-10",
+		"class": "5/C"
+	},
+	{
+		"name": "Jónás Szabolcs",
+		"gender": "Férfi",
+		"birthDate": "2010-03-26",
+		"class": "5/C"
+	},
+	{
+		"name": "Kocsis Pál Zsolt",
+		"gender": "Férfi",
+		"birthDate": "2010-02-01",
+		"class": "5/C"
+	},
+	{
+		"name": "Magyar József",
+		"gender": "Férfi",
+		"birthDate": "2010-05-17",
+		"class": "5/C"
+	},
+	{
+		"name": "Mezei Edina Etelka",
+		"gender": "Nő",
+		"birthDate": "2010-07-19",
+		"class": "5/C"
+	},
+	{
+		"name": "Mezei Nándor Mátyás",
+		"gender": "Férfi",
+		"birthDate": "2010-06-24",
+		"class": "5/C"
+	},
+	{
+		"name": "Pataki Kinga",
+		"gender": "Nő",
+		"birthDate": "2009-12-04",
+		"class": "5/C"
+	},
+	{
+		"name": "Szűcs Vivien",
+		"gender": "Nő",
+		"birthDate": "2010-03-02",
+		"class": "5/C"
+	},
+	{
+		"name": "Török Gyula Ábel",
+		"gender": "Férfi",
+		"birthDate": "2009-09-20",
+		"class": "5/C"
+	},
+	{
+		"name": "Váradi Károly",
+		"gender": "Férfi",
+		"birthDate": "2010-07-10",
+		"class": "5/C"
+	},
+	{
+		"name": "Varga Kitti",
+		"gender": "Nő",
+		"birthDate": "2010-01-04",
+		"class": "5/C"
+	},
+	{
+		"name": "Veres Vince Vilmos",
+		"gender": "Férfi",
+		"birthDate": "2010-05-07",
+		"class": "5/C"
+	},
+	{
+		"name": "Boros Barnabás",
+		"gender": "Férfi",
+		"birthDate": "2009-03-14",
+		"class": "6/A"
+	},
+	{
+		"name": "Deák Irén Zsanett",
+		"gender": "Nő",
+		"birthDate": "2009-04-12",
+		"class": "6/A"
+	},
+	{
+		"name": "Deák Luca",
+		"gender": "Nő",
+		"birthDate": "2009-03-22",
+		"class": "6/A"
+	},
+	{
+		"name": "Fehér Beatrix",
+		"gender": "Nő",
+		"birthDate": "2009-02-10",
+		"class": "6/A"
+	},
+	{
+		"name": "Fodor Gyöngyi",
+		"gender": "Nő",
+		"birthDate": "2008-09-22",
+		"class": "6/A"
+	},
+	{
+		"name": "Fodor Róbert Krisztofer",
+		"gender": "Férfi",
+		"birthDate": "2009-06-17",
+		"class": "6/A"
+	},
+	{
+		"name": "Fülöp Vivien",
+		"gender": "Nő",
+		"birthDate": "2008-09-12",
+		"class": "6/A"
+	},
+	{
+		"name": "Halász Kinga",
+		"gender": "Nő",
+		"birthDate": "2009-08-14",
+		"class": "6/A"
+	},
+	{
+		"name": "Horváth Alexandra",
+		"gender": "Nő",
+		"birthDate": "2009-07-03",
+		"class": "6/A"
+	},
+	{
+		"name": "Jónás Gizella",
+		"gender": "Nő",
+		"birthDate": "2008-11-18",
+		"class": "6/A"
+	},
+	{
+		"name": "Kerekes Kornél",
+		"gender": "Férfi",
+		"birthDate": "2009-05-19",
+		"class": "6/A"
+	},
+	{
+		"name": "Kovács Beáta",
+		"gender": "Nő",
+		"birthDate": "2008-12-19",
+		"class": "6/A"
+	},
+	{
+		"name": "Kozma Csilla Barbara",
+		"gender": "Nő",
+		"birthDate": "2009-01-02",
+		"class": "6/A"
+	},
+	{
+		"name": "László Judit Róza",
+		"gender": "Nő",
+		"birthDate": "2009-07-20",
+		"class": "6/A"
+	},
+	{
+		"name": "Lukács Ábel Bence",
+		"gender": "Férfi",
+		"birthDate": "2009-07-31",
+		"class": "6/A"
+	},
+	{
+		"name": "Magyar Adrián",
+		"gender": "Férfi",
+		"birthDate": "2009-03-03",
+		"class": "6/A"
+	},
+	{
+		"name": "Nagy Márton",
+		"gender": "Férfi",
+		"birthDate": "2009-04-28",
+		"class": "6/A"
+	},
+	{
+		"name": "Németh Adrienn",
+		"gender": "Nő",
+		"birthDate": "2008-12-16",
+		"class": "6/A"
+	},
+	{
+		"name": "Orosz Bendegúz",
+		"gender": "Férfi",
+		"birthDate": "2008-10-20",
+		"class": "6/A"
+	},
+	{
+		"name": "Pintér Szilárd Viktor",
+		"gender": "Férfi",
+		"birthDate": "2008-10-04",
+		"class": "6/A"
+	},
+	{
+		"name": "Rácz Beáta",
+		"gender": "Nő",
+		"birthDate": "2009-08-29",
+		"class": "6/A"
+	},
+	{
+		"name": "Simon Róza Aranka",
+		"gender": "Nő",
+		"birthDate": "2009-01-29",
+		"class": "6/A"
+	},
+	{
+		"name": "Szilágyi Gyula Zsolt",
+		"gender": "Férfi",
+		"birthDate": "2009-05-26",
+		"class": "6/A"
+	},
+	{
+		"name": "Szőke Roland",
+		"gender": "Férfi",
+		"birthDate": "2009-03-30",
+		"class": "6/A"
+	},
+	{
+		"name": "Váradi Orsolya",
+		"gender": "Nő",
+		"birthDate": "2008-10-31",
+		"class": "6/A"
+	},
+	{
+		"name": "Vass Judit Boglárka",
+		"gender": "Nő",
+		"birthDate": "2008-11-05",
+		"class": "6/A"
+	},
+	{
+		"name": "Antal Ottó Vilmos",
+		"gender": "Férfi",
+		"birthDate": "2009-02-07",
+		"class": "6/B"
+	},
+	{
+		"name": "Biró Edit",
+		"gender": "Nő",
+		"birthDate": "2009-03-13",
+		"class": "6/B"
+	},
+	{
+		"name": "Biró Ferenc",
+		"gender": "Férfi",
+		"birthDate": "2009-04-26",
+		"class": "6/B"
+	},
+	{
+		"name": "Borbély Olivér Máté",
+		"gender": "Férfi",
+		"birthDate": "2008-10-30",
+		"class": "6/B"
+	},
+	{
+		"name": "Csonka Bence",
+		"gender": "Férfi",
+		"birthDate": "2009-02-16",
+		"class": "6/B"
+	},
+	{
+		"name": "Fekete Magdolna Annamária",
+		"gender": "Nő",
+		"birthDate": "2008-09-12",
+		"class": "6/B"
+	},
+	{
+		"name": "Kovács Györgyi",
+		"gender": "Nő",
+		"birthDate": "2009-06-13",
+		"class": "6/B"
+	},
+	{
+		"name": "Kozma Róbert",
+		"gender": "Férfi",
+		"birthDate": "2009-08-12",
+		"class": "6/B"
+	},
+	{
+		"name": "Major Csongor",
+		"gender": "Férfi",
+		"birthDate": "2009-07-27",
+		"class": "6/B"
+	},
+	{
+		"name": "Molnár Norbert Dénes",
+		"gender": "Férfi",
+		"birthDate": "2009-07-16",
+		"class": "6/B"
+	},
+	{
+		"name": "Oláh Gergő Bendegúz",
+		"gender": "Férfi",
+		"birthDate": "2009-03-24",
+		"class": "6/B"
+	},
+	{
+		"name": "Sárközi Csilla Fanni",
+		"gender": "Nő",
+		"birthDate": "2009-05-08",
+		"class": "6/B"
+	},
+	{
+		"name": "Sárközi Dezső",
+		"gender": "Férfi",
+		"birthDate": "2008-12-18",
+		"class": "6/B"
+	},
+	{
+		"name": "Simon Róbert Ernő",
+		"gender": "Férfi",
+		"birthDate": "2009-03-21",
+		"class": "6/B"
+	},
+	{
+		"name": "Sipos Dominik",
+		"gender": "Férfi",
+		"birthDate": "2009-05-21",
+		"class": "6/B"
+	},
+	{
+		"name": "Soós Tamás",
+		"gender": "Férfi",
+		"birthDate": "2008-11-04",
+		"class": "6/B"
+	},
+	{
+		"name": "Szalai Boglárka",
+		"gender": "Nő",
+		"birthDate": "2009-06-23",
+		"class": "6/B"
+	},
+	{
+		"name": "Székely Beáta",
+		"gender": "Nő",
+		"birthDate": "2008-09-22",
+		"class": "6/B"
+	},
+	{
+		"name": "Szilágyi Vilmos Erik",
+		"gender": "Férfi",
+		"birthDate": "2008-12-09",
+		"class": "6/B"
+	},
+	{
+		"name": "Szőke Renáta",
+		"gender": "Nő",
+		"birthDate": "2008-10-20",
+		"class": "6/B"
+	},
+	{
+		"name": "Szücs Máté Soma",
+		"gender": "Férfi",
+		"birthDate": "2009-01-23",
+		"class": "6/B"
+	},
+	{
+		"name": "Váradi Máté",
+		"gender": "Férfi",
+		"birthDate": "2009-04-10",
+		"class": "6/B"
+	},
+	{
+		"name": "Veres Soma",
+		"gender": "Férfi",
+		"birthDate": "2008-09-28",
+		"class": "6/B"
+	},
+	{
+		"name": "Vincze Magdolna Barbara",
+		"gender": "Nő",
+		"birthDate": "2008-11-09",
+		"class": "6/B"
+	},
+	{
+		"name": "Virág Gréta",
+		"gender": "Nő",
+		"birthDate": "2008-12-26",
+		"class": "6/B"
+	},
+	{
+		"name": "Vörös Judit",
+		"gender": "Nő",
+		"birthDate": "2009-08-28",
+		"class": "6/B"
+	},
+	{
+		"name": "Antal Sándor",
+		"gender": "Férfi",
+		"birthDate": "2009-08-20",
+		"class": "6/C"
+	},
+	{
+		"name": "Barna Valéria",
+		"gender": "Nő",
+		"birthDate": "2009-07-24",
+		"class": "6/C"
+	},
+	{
+		"name": "Borbély Margit",
+		"gender": "Nő",
+		"birthDate": "2009-02-11",
+		"class": "6/C"
+	},
+	{
+		"name": "Budai Szilvia",
+		"gender": "Nő",
+		"birthDate": "2009-03-09",
+		"class": "6/C"
+	},
+	{
+		"name": "Fekete Nikoletta",
+		"gender": "Nő",
+		"birthDate": "2009-01-22",
+		"class": "6/C"
+	},
+	{
+		"name": "Fülöp Ábel",
+		"gender": "Férfi",
+		"birthDate": "2008-12-08",
+		"class": "6/C"
+	},
+	{
+		"name": "Jakab Szilvia",
+		"gender": "Nő",
+		"birthDate": "2008-09-15",
+		"class": "6/C"
+	},
+	{
+		"name": "Katona Anita",
+		"gender": "Nő",
+		"birthDate": "2009-07-11",
+		"class": "6/C"
+	},
+	{
+		"name": "Katona Dorottya",
+		"gender": "Nő",
+		"birthDate": "2008-12-18",
+		"class": "6/C"
+	},
+	{
+		"name": "Kiss Gyöngyi",
+		"gender": "Nő",
+		"birthDate": "2008-09-09",
+		"class": "6/C"
+	},
+	{
+		"name": "Kovács Vince",
+		"gender": "Férfi",
+		"birthDate": "2009-05-19",
+		"class": "6/C"
+	},
+	{
+		"name": "László László",
+		"gender": "Férfi",
+		"birthDate": "2009-03-23",
+		"class": "6/C"
+	},
+	{
+		"name": "Mezei Margit Éva",
+		"gender": "Nő",
+		"birthDate": "2008-11-01",
+		"class": "6/C"
+	},
+	{
+		"name": "Németh Balázs Norbert",
+		"gender": "Férfi",
+		"birthDate": "2008-10-21",
+		"class": "6/C"
+	},
+	{
+		"name": "Oláh Aranka",
+		"gender": "Nő",
+		"birthDate": "2009-02-06",
+		"class": "6/C"
+	},
+	{
+		"name": "Orsós Norbert",
+		"gender": "Férfi",
+		"birthDate": "2009-03-17",
+		"class": "6/C"
+	},
+	{
+		"name": "Papp Kornél",
+		"gender": "Férfi",
+		"birthDate": "2009-05-04",
+		"class": "6/C"
+	},
+	{
+		"name": "Pásztor Sára",
+		"gender": "Nő",
+		"birthDate": "2009-04-22",
+		"class": "6/C"
+	},
+	{
+		"name": "Pintér József",
+		"gender": "Férfi",
+		"birthDate": "2009-04-07",
+		"class": "6/C"
+	},
+	{
+		"name": "Szabó Júlia Tímea",
+		"gender": "Nő",
+		"birthDate": "2008-09-24",
+		"class": "6/C"
+	},
+	{
+		"name": "Szalai Orsolya Nikoletta",
+		"gender": "Nő",
+		"birthDate": "2008-10-12",
+		"class": "6/C"
+	},
+	{
+		"name": "Török Balázs",
+		"gender": "Férfi",
+		"birthDate": "2009-08-02",
+		"class": "6/C"
+	},
+	{
+		"name": "Varga Emma",
+		"gender": "Nő",
+		"birthDate": "2008-12-25",
+		"class": "6/C"
+	},
+	{
+		"name": "Vass Jenő",
+		"gender": "Férfi",
+		"birthDate": "2009-06-21",
+		"class": "6/C"
+	},
+	{
+		"name": "Vörös Beáta",
+		"gender": "Nő",
+		"birthDate": "2009-06-11",
+		"class": "6/C"
+	},
+	{
+		"name": "Vörös Lajos",
+		"gender": "Férfi",
+		"birthDate": "2008-11-06",
+		"class": "6/C"
+	},
+	{
+		"name": "Bálint Nóra",
+		"gender": "Nő",
+		"birthDate": "2007-10-13",
+		"class": "7/A"
+	},
+	{
+		"name": "Boros Bernadett Teréz",
+		"gender": "Nő",
+		"birthDate": "2008-02-01",
+		"class": "7/A"
+	},
+	{
+		"name": "Hajdu Attila",
+		"gender": "Férfi",
+		"birthDate": "2008-02-20",
+		"class": "7/A"
+	},
+	{
+		"name": "Jakab Erik",
+		"gender": "Férfi",
+		"birthDate": "2008-08-25",
+		"class": "7/A"
+	},
+	{
+		"name": "Jakab Szilárd",
+		"gender": "Férfi",
+		"birthDate": "2007-11-23",
+		"class": "7/A"
+	},
+	{
+		"name": "Kerekes Rudolf Zoltán",
+		"gender": "Férfi",
+		"birthDate": "2007-10-04",
+		"class": "7/A"
+	},
+	{
+		"name": "Major Olivér",
+		"gender": "Férfi",
+		"birthDate": "2007-11-04",
+		"class": "7/A"
+	},
+	{
+		"name": "Mészáros Rózsa",
+		"gender": "Nő",
+		"birthDate": "2007-09-03",
+		"class": "7/A"
+	},
+	{
+		"name": "Nagy Fanni",
+		"gender": "Nő",
+		"birthDate": "2008-07-09",
+		"class": "7/A"
+	},
+	{
+		"name": "Orsós Jenő",
+		"gender": "Férfi",
+		"birthDate": "2007-12-06",
+		"class": "7/A"
+	},
+	{
+		"name": "Pap Dominik Noel",
+		"gender": "Férfi",
+		"birthDate": "2008-08-07",
+		"class": "7/A"
+	},
+	{
+		"name": "Pap Kristóf Tibor",
+		"gender": "Férfi",
+		"birthDate": "2008-06-25",
+		"class": "7/A"
+	},
+	{
+		"name": "Pásztor Géza",
+		"gender": "Férfi",
+		"birthDate": "2008-03-21",
+		"class": "7/A"
+	},
+	{
+		"name": "Sándor Zétény",
+		"gender": "Férfi",
+		"birthDate": "2008-05-21",
+		"class": "7/A"
+	},
+	{
+		"name": "Simon Rózsa Marianna",
+		"gender": "Nő",
+		"birthDate": "2008-06-06",
+		"class": "7/A"
+	},
+	{
+		"name": "Somogyi Erika",
+		"gender": "Nő",
+		"birthDate": "2008-04-26",
+		"class": "7/A"
+	},
+	{
+		"name": "Soós Dorina",
+		"gender": "Nő",
+		"birthDate": "2008-07-17",
+		"class": "7/A"
+	},
+	{
+		"name": "Szabó Ottó",
+		"gender": "Férfi",
+		"birthDate": "2008-03-12",
+		"class": "7/A"
+	},
+	{
+		"name": "Török Adrienn",
+		"gender": "Nő",
+		"birthDate": "2008-06-16",
+		"class": "7/A"
+	},
+	{
+		"name": "Török Endre",
+		"gender": "Férfi",
+		"birthDate": "2008-01-16",
+		"class": "7/A"
+	},
+	{
+		"name": "Vass Csenge Kinga",
+		"gender": "Nő",
+		"birthDate": "2007-09-23",
+		"class": "7/A"
+	},
+	{
+		"name": "Vörös Hanna",
+		"gender": "Nő",
+		"birthDate": "2007-12-18",
+		"class": "7/A"
+	},
+	{
+		"name": "Antal Irén",
+		"gender": "Nő",
+		"birthDate": "2007-12-29",
+		"class": "7/B"
+	},
+	{
+		"name": "Bodnár Szilveszter",
+		"gender": "Férfi",
+		"birthDate": "2008-01-26",
+		"class": "7/B"
+	},
+	{
+		"name": "Faragó Alexandra",
+		"gender": "Nő",
+		"birthDate": "2007-12-14",
+		"class": "7/B"
+	},
+	{
+		"name": "Fekete Réka",
+		"gender": "Nő",
+		"birthDate": "2008-03-21",
+		"class": "7/B"
+	},
+	{
+		"name": "Halász Judit Regina",
+		"gender": "Nő",
+		"birthDate": "2008-02-08",
+		"class": "7/B"
+	},
+	{
+		"name": "Kelemen Sándor Zoltán",
+		"gender": "Férfi",
+		"birthDate": "2008-06-11",
+		"class": "7/B"
+	},
+	{
+		"name": "Kerekes Bence",
+		"gender": "Férfi",
+		"birthDate": "2008-06-03",
+		"class": "7/B"
+	},
+	{
+		"name": "Kocsis Anett",
+		"gender": "Nő",
+		"birthDate": "2008-03-06",
+		"class": "7/B"
+	},
+	{
+		"name": "Major Hunor Vince",
+		"gender": "Férfi",
+		"birthDate": "2008-08-24",
+		"class": "7/B"
+	},
+	{
+		"name": "Major Kinga Ilona",
+		"gender": "Nő",
+		"birthDate": "2007-09-11",
+		"class": "7/B"
+	},
+	{
+		"name": "Nemes Nikolett",
+		"gender": "Nő",
+		"birthDate": "2008-07-03",
+		"class": "7/B"
+	},
+	{
+		"name": "Nemes Pál Márton",
+		"gender": "Férfi",
+		"birthDate": "2008-07-12",
+		"class": "7/B"
+	},
+	{
+		"name": "Pál Csongor Dávid",
+		"gender": "Férfi",
+		"birthDate": "2007-12-04",
+		"class": "7/B"
+	},
+	{
+		"name": "Péter Margit",
+		"gender": "Nő",
+		"birthDate": "2007-11-17",
+		"class": "7/B"
+	},
+	{
+		"name": "Rácz Viktória",
+		"gender": "Nő",
+		"birthDate": "2007-09-30",
+		"class": "7/B"
+	},
+	{
+		"name": "Simon Róbert",
+		"gender": "Férfi",
+		"birthDate": "2008-05-14",
+		"class": "7/B"
+	},
+	{
+		"name": "Somogyi Piroska Nikolett",
+		"gender": "Nő",
+		"birthDate": "2008-07-22",
+		"class": "7/B"
+	},
+	{
+		"name": "Székely Sándor",
+		"gender": "Férfi",
+		"birthDate": "2007-10-29",
+		"class": "7/B"
+	},
+	{
+		"name": "Szücs Borbála Teréz",
+		"gender": "Nő",
+		"birthDate": "2007-10-09",
+		"class": "7/B"
+	},
+	{
+		"name": "Takács Emese",
+		"gender": "Nő",
+		"birthDate": "2008-06-20",
+		"class": "7/B"
+	},
+	{
+		"name": "Vincze Ákos Tibor",
+		"gender": "Férfi",
+		"birthDate": "2008-04-15",
+		"class": "7/B"
+	},
+	{
+		"name": "Berki Ágnes Krisztina",
+		"gender": "Nő",
+		"birthDate": "2008-05-29",
+		"class": "7/C"
+	},
+	{
+		"name": "Bodnár Boglárka",
+		"gender": "Nő",
+		"birthDate": "2007-09-24",
+		"class": "7/C"
+	},
+	{
+		"name": "Bodnár Patrik Krisztián",
+		"gender": "Férfi",
+		"birthDate": "2008-03-15",
+		"class": "7/C"
+	},
+	{
+		"name": "Boros Ádám",
+		"gender": "Férfi",
+		"birthDate": "2007-10-24",
+		"class": "7/C"
+	},
+	{
+		"name": "Fekete Szilvia Magdolna",
+		"gender": "Nő",
+		"birthDate": "2008-06-25",
+		"class": "7/C"
+	},
+	{
+		"name": "Gáspár Arnold",
+		"gender": "Férfi",
+		"birthDate": "2008-02-27",
+		"class": "7/C"
+	},
+	{
+		"name": "Horváth Benedek",
+		"gender": "Férfi",
+		"birthDate": "2007-12-27",
+		"class": "7/C"
+	},
+	{
+		"name": "Katona Zsombor",
+		"gender": "Férfi",
+		"birthDate": "2008-07-18",
+		"class": "7/C"
+	},
+	{
+		"name": "Kiss Anett Marianna",
+		"gender": "Nő",
+		"birthDate": "2007-09-09",
+		"class": "7/C"
+	},
+	{
+		"name": "Máté Győző",
+		"gender": "Férfi",
+		"birthDate": "2008-05-05",
+		"class": "7/C"
+	},
+	{
+		"name": "Mészáros Dóra",
+		"gender": "Nő",
+		"birthDate": "2008-01-26",
+		"class": "7/C"
+	},
+	{
+		"name": "Nemes Erika Anita",
+		"gender": "Nő",
+		"birthDate": "2008-08-09",
+		"class": "7/C"
+	},
+	{
+		"name": "Oláh Hajnalka Réka",
+		"gender": "Nő",
+		"birthDate": "2008-03-31",
+		"class": "7/C"
+	},
+	{
+		"name": "Oláh Márk",
+		"gender": "Férfi",
+		"birthDate": "2007-11-27",
+		"class": "7/C"
+	},
+	{
+		"name": "Orosz Sándor",
+		"gender": "Férfi",
+		"birthDate": "2007-10-06",
+		"class": "7/C"
+	},
+	{
+		"name": "Papp Benjámin Hunor",
+		"gender": "Férfi",
+		"birthDate": "2007-11-09",
+		"class": "7/C"
+	},
+	{
+		"name": "Papp Henrietta Rozália",
+		"gender": "Nő",
+		"birthDate": "2008-02-07",
+		"class": "7/C"
+	},
+	{
+		"name": "Pásztor Dénes",
+		"gender": "Férfi",
+		"birthDate": "2008-06-18",
+		"class": "7/C"
+	},
+	{
+		"name": "Somogyi Vince",
+		"gender": "Férfi",
+		"birthDate": "2007-12-08",
+		"class": "7/C"
+	},
+	{
+		"name": "Szücs Teréz",
+		"gender": "Nő",
+		"birthDate": "2008-07-11",
+		"class": "7/C"
+	},
+	{
+		"name": "Váradi Róbert",
+		"gender": "Férfi",
+		"birthDate": "2008-06-07",
+		"class": "7/C"
+	},
+	{
+		"name": "Bakos Ádám",
+		"gender": "Férfi",
+		"birthDate": "2006-08-18",
+		"class": "8/A"
+	},
+	{
+		"name": "Bakos Csongor",
+		"gender": "Férfi",
+		"birthDate": "2007-03-16",
+		"class": "8/A"
+	},
+	{
+		"name": "Balázs Emese",
+		"gender": "Nő",
+		"birthDate": "2007-08-10",
+		"class": "8/A"
+	},
+	{
+		"name": "Balázs Ildikó",
+		"gender": "Nő",
+		"birthDate": "2007-05-01",
+		"class": "8/A"
+	},
+	{
+		"name": "Balázs Nikolett",
+		"gender": "Nő",
+		"birthDate": "2006-02-23",
+		"class": "8/A"
+	},
+	{
+		"name": "Balla Mónika",
+		"gender": "Nő",
+		"birthDate": "2006-10-10",
+		"class": "8/A"
+	},
+	{
+		"name": "Balogh Patrik",
+		"gender": "Férfi",
+		"birthDate": "2007-02-01",
+		"class": "8/A"
+	},
+	{
+		"name": "Borbély András",
+		"gender": "Férfi",
+		"birthDate": "2006-04-11",
+		"class": "8/A"
+	},
+	{
+		"name": "Borbély Imre",
+		"gender": "Férfi",
+		"birthDate": "2006-05-08",
+		"class": "8/A"
+	},
+	{
+		"name": "Csonka Györgyi",
+		"gender": "Nő",
+		"birthDate": "2007-06-28",
+		"class": "8/A"
+	},
+	{
+		"name": "Deák Marcell",
+		"gender": "Férfi",
+		"birthDate": "2007-03-24",
+		"class": "8/A"
+	},
+	{
+		"name": "Fehér Károly",
+		"gender": "Férfi",
+		"birthDate": "2006-01-12",
+		"class": "8/A"
+	},
+	{
+		"name": "Fehér Terézia Borbála",
+		"gender": "Nő",
+		"birthDate": "2006-03-13",
+		"class": "8/A"
+	},
+	{
+		"name": "Fekete Ákos",
+		"gender": "Férfi",
+		"birthDate": "2006-04-25",
+		"class": "8/A"
+	},
+	{
+		"name": "Halász Irén",
+		"gender": "Nő",
+		"birthDate": "2007-06-19",
+		"class": "8/A"
+	},
+	{
+		"name": "Halász Nimród",
+		"gender": "Férfi",
+		"birthDate": "2006-11-18",
+		"class": "8/A"
+	},
+	{
+		"name": "Juhász Dorina",
+		"gender": "Nő",
+		"birthDate": "2006-07-28",
+		"class": "8/A"
+	},
+	{
+		"name": "Kovács Erika",
+		"gender": "Nő",
+		"birthDate": "2007-02-17",
+		"class": "8/A"
+	},
+	{
+		"name": "Lukács Gabriella",
+		"gender": "Nő",
+		"birthDate": "2007-07-27",
+		"class": "8/A"
+	},
+	{
+		"name": "Lukács Gyöngyi Mónika",
+		"gender": "Nő",
+		"birthDate": "2006-04-15",
+		"class": "8/A"
+	},
+	{
+		"name": "Major Kálmán",
+		"gender": "Férfi",
+		"birthDate": "2007-03-02",
+		"class": "8/A"
+	},
+	{
+		"name": "Mezei Barnabás",
+		"gender": "Férfi",
+		"birthDate": "2006-09-21",
+		"class": "8/A"
+	},
+	{
+		"name": "Mezei Tamás",
+		"gender": "Férfi",
+		"birthDate": "2007-07-14",
+		"class": "8/A"
+	},
+	{
+		"name": "Molnár Dezső",
+		"gender": "Férfi",
+		"birthDate": "2006-12-01",
+		"class": "8/A"
+	},
+	{
+		"name": "Orbán Hunor",
+		"gender": "Férfi",
+		"birthDate": "2006-09-07",
+		"class": "8/A"
+	},
+	{
+		"name": "Pál Margit Marianna",
+		"gender": "Nő",
+		"birthDate": "2006-03-19",
+		"class": "8/A"
+	},
+	{
+		"name": "Pásztor Anett",
+		"gender": "Nő",
+		"birthDate": "2006-11-06",
+		"class": "8/A"
+	},
+	{
+		"name": "Pataki Jenő",
+		"gender": "Férfi",
+		"birthDate": "2007-04-28",
+		"class": "8/A"
+	},
+	{
+		"name": "Pataki Noémi",
+		"gender": "Nő",
+		"birthDate": "2007-06-10",
+		"class": "8/A"
+	},
+	{
+		"name": "Pataki Patrik Alex",
+		"gender": "Férfi",
+		"birthDate": "2006-02-03",
+		"class": "8/A"
+	},
+	{
+		"name": "Pintér Erik Noel",
+		"gender": "Férfi",
+		"birthDate": "2006-06-28",
+		"class": "8/A"
+	},
+	{
+		"name": "Rácz Dániel Alex",
+		"gender": "Férfi",
+		"birthDate": "2007-05-23",
+		"class": "8/A"
+	},
+	{
+		"name": "Rácz Klaudia",
+		"gender": "Nő",
+		"birthDate": "2006-07-04",
+		"class": "8/A"
+	},
+	{
+		"name": "Sárközi Noel Nándor",
+		"gender": "Férfi",
+		"birthDate": "2006-12-17",
+		"class": "8/A"
+	},
+	{
+		"name": "Soós Áron",
+		"gender": "Férfi",
+		"birthDate": "2006-06-12",
+		"class": "8/A"
+	},
+	{
+		"name": "Soós Attila",
+		"gender": "Férfi",
+		"birthDate": "2006-05-25",
+		"class": "8/A"
+	},
+	{
+		"name": "Szabó Éva",
+		"gender": "Nő",
+		"birthDate": "2007-05-02",
+		"class": "8/A"
+	},
+	{
+		"name": "Szabó Klára",
+		"gender": "Nő",
+		"birthDate": "2006-07-18",
+		"class": "8/A"
+	},
+	{
+		"name": "Tóth Beáta",
+		"gender": "Nő",
+		"birthDate": "2006-10-03",
+		"class": "8/A"
+	},
+	{
+		"name": "Török Adrienn",
+		"gender": "Nő",
+		"birthDate": "2007-01-18",
+		"class": "8/A"
+	},
+	{
+		"name": "Váradi Andrea Terézia",
+		"gender": "Nő",
+		"birthDate": "2006-02-13",
+		"class": "8/A"
+	},
+	{
+		"name": "Veres Irén Bernadett",
+		"gender": "Nő",
+		"birthDate": "2006-06-01",
+		"class": "8/A"
+	},
+	{
+		"name": "Bakos Valéria Márta",
+		"gender": "Nő",
+		"birthDate": "2007-03-18",
+		"class": "8/B"
+	},
+	{
+		"name": "Bálint Viktória",
+		"gender": "Nő",
+		"birthDate": "2006-09-13",
+		"class": "8/B"
+	},
+	{
+		"name": "Balog Károly",
+		"gender": "Férfi",
+		"birthDate": "2006-04-17",
+		"class": "8/B"
+	},
+	{
+		"name": "Berki Gizella",
+		"gender": "Nő",
+		"birthDate": "2007-04-27",
+		"class": "8/B"
+	},
+	{
+		"name": "Bogdán Veronika Anna",
+		"gender": "Nő",
+		"birthDate": "2006-07-11",
+		"class": "8/B"
+	},
+	{
+		"name": "Bognár Jázmin Lili",
+		"gender": "Nő",
+		"birthDate": "2007-03-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Bognár Nikoletta",
+		"gender": "Nő",
+		"birthDate": "2007-08-03",
+		"class": "8/B"
+	},
+	{
+		"name": "Borbély Alex",
+		"gender": "Férfi",
+		"birthDate": "2006-01-08",
+		"class": "8/B"
+	},
+	{
+		"name": "Budai Ádám",
+		"gender": "Férfi",
+		"birthDate": "2006-02-26",
+		"class": "8/B"
+	},
+	{
+		"name": "Budai Máté",
+		"gender": "Férfi",
+		"birthDate": "2007-08-17",
+		"class": "8/B"
+	},
+	{
+		"name": "Fodor József",
+		"gender": "Férfi",
+		"birthDate": "2006-10-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Fülöp Brigitta",
+		"gender": "Nő",
+		"birthDate": "2006-12-12",
+		"class": "8/B"
+	},
+	{
+		"name": "Gál Csongor",
+		"gender": "Férfi",
+		"birthDate": "2006-10-18",
+		"class": "8/B"
+	},
+	{
+		"name": "Gulyás Győző",
+		"gender": "Férfi",
+		"birthDate": "2007-06-08",
+		"class": "8/B"
+	},
+	{
+		"name": "Hegedüs Gusztáv Nimród",
+		"gender": "Férfi",
+		"birthDate": "2006-05-17",
+		"class": "8/B"
+	},
+	{
+		"name": "Hegedüs Marianna Judit",
+		"gender": "Nő",
+		"birthDate": "2006-07-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Horváth Beáta",
+		"gender": "Nő",
+		"birthDate": "2006-09-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Jakab Botond Sándor",
+		"gender": "Férfi",
+		"birthDate": "2007-05-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Jakab Zalán",
+		"gender": "Férfi",
+		"birthDate": "2007-07-22",
+		"class": "8/B"
+	},
+	{
+		"name": "Jónás Magdolna",
+		"gender": "Nő",
+		"birthDate": "2007-01-25",
+		"class": "8/B"
+	},
+	{
+		"name": "Kerekes Károly",
+		"gender": "Férfi",
+		"birthDate": "2006-02-23",
+		"class": "8/B"
+	},
+	{
+		"name": "Kiss Dominik",
+		"gender": "Férfi",
+		"birthDate": "2006-02-09",
+		"class": "8/B"
+	},
+	{
+		"name": "László Hajnalka Irén",
+		"gender": "Nő",
+		"birthDate": "2007-06-16",
+		"class": "8/B"
+	},
+	{
+		"name": "Magyar Irén",
+		"gender": "Nő",
+		"birthDate": "2006-04-05",
+		"class": "8/B"
+	},
+	{
+		"name": "Márton Viktor",
+		"gender": "Férfi",
+		"birthDate": "2007-06-22",
+		"class": "8/B"
+	},
+	{
+		"name": "Mészáros Dávid",
+		"gender": "Férfi",
+		"birthDate": "2006-06-09",
+		"class": "8/B"
+	},
+	{
+		"name": "Molnár Ábel",
+		"gender": "Férfi",
+		"birthDate": "2006-03-18",
+		"class": "8/B"
+	},
+	{
+		"name": "Molnár Gergely Milán",
+		"gender": "Férfi",
+		"birthDate": "2006-06-13",
+		"class": "8/B"
+	},
+	{
+		"name": "Nemes Alexandra",
+		"gender": "Nő",
+		"birthDate": "2006-08-08",
+		"class": "8/B"
+	},
+	{
+		"name": "Nemes Benjámin",
+		"gender": "Férfi",
+		"birthDate": "2007-07-09",
+		"class": "8/B"
+	},
+	{
+		"name": "Novák Márta",
+		"gender": "Nő",
+		"birthDate": "2007-03-13",
+		"class": "8/B"
+	},
+	{
+		"name": "Orosz Melinda Bernadett",
+		"gender": "Nő",
+		"birthDate": "2006-05-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Pál Lajos Rudolf",
+		"gender": "Férfi",
+		"birthDate": "2006-07-26",
+		"class": "8/B"
+	},
+	{
+		"name": "Pásztor Éva",
+		"gender": "Nő",
+		"birthDate": "2006-01-26",
+		"class": "8/B"
+	},
+	{
+		"name": "Pintér Barnabás",
+		"gender": "Férfi",
+		"birthDate": "2006-12-28",
+		"class": "8/B"
+	},
+	{
+		"name": "Pintér Laura",
+		"gender": "Nő",
+		"birthDate": "2006-11-25",
+		"class": "8/B"
+	},
+	{
+		"name": "Sándor Benedek",
+		"gender": "Férfi",
+		"birthDate": "2006-10-08",
+		"class": "8/B"
+	},
+	{
+		"name": "Szilágyi Zita",
+		"gender": "Nő",
+		"birthDate": "2007-02-06",
+		"class": "8/B"
+	},
+	{
+		"name": "Tamás Anett",
+		"gender": "Nő",
+		"birthDate": "2007-05-22",
+		"class": "8/B"
+	},
+	{
+		"name": "Tóth Győző",
+		"gender": "Férfi",
+		"birthDate": "2006-05-29",
+		"class": "8/B"
+	},
+	{
+		"name": "Veres Kristóf",
+		"gender": "Férfi",
+		"birthDate": "2007-05-01",
+		"class": "8/B"
+	},
+	{
+		"name": "Virág Gusztáv",
+		"gender": "Férfi",
+		"birthDate": "2006-11-14",
+		"class": "8/B"
+	},
+	{
+		"name": "Vörös Emese Nikolett",
+		"gender": "Nő",
+		"birthDate": "2006-04-15",
+		"class": "8/B"
+	},
+	{
+		"name": "Antal Rozália Veronika",
+		"gender": "Nő",
+		"birthDate": "2006-08-03",
+		"class": "8/C"
+	},
+	{
+		"name": "Balázs Kinga",
+		"gender": "Nő",
+		"birthDate": "2007-05-26",
+		"class": "8/C"
+	},
+	{
+		"name": "Bálint Andrea",
+		"gender": "Nő",
+		"birthDate": "2007-07-04",
+		"class": "8/C"
+	},
+	{
+		"name": "Balogh Máté",
+		"gender": "Férfi",
+		"birthDate": "2006-06-30",
+		"class": "8/C"
+	},
+	{
+		"name": "Barta Melinda",
+		"gender": "Nő",
+		"birthDate": "2006-07-11",
+		"class": "8/C"
+	},
+	{
+		"name": "Borbély Benedek Bendegúz",
+		"gender": "Férfi",
+		"birthDate": "2006-10-04",
+		"class": "8/C"
+	},
+	{
+		"name": "Boros Anna Noémi",
+		"gender": "Nő",
+		"birthDate": "2006-10-14",
+		"class": "8/C"
+	},
+	{
+		"name": "Budai Ottó",
+		"gender": "Férfi",
+		"birthDate": "2007-03-17",
+		"class": "8/C"
+	},
+	{
+		"name": "Fábián Anna Mónika",
+		"gender": "Nő",
+		"birthDate": "2006-06-12",
+		"class": "8/C"
+	},
+	{
+		"name": "Fábián Sára",
+		"gender": "Nő",
+		"birthDate": "2006-05-26",
+		"class": "8/C"
+	},
+	{
+		"name": "Hajdu Anett",
+		"gender": "Nő",
+		"birthDate": "2007-06-22",
+		"class": "8/C"
+	},
+	{
+		"name": "Halász Zsófia",
+		"gender": "Nő",
+		"birthDate": "2006-03-28",
+		"class": "8/C"
+	},
+	{
+		"name": "Hegedüs Bálint Miklós",
+		"gender": "Férfi",
+		"birthDate": "2006-03-17",
+		"class": "8/C"
+	},
+	{
+		"name": "Juhász Albert Győző",
+		"gender": "Férfi",
+		"birthDate": "2006-01-22",
+		"class": "8/C"
+	},
+	{
+		"name": "Juhász Rita",
+		"gender": "Nő",
+		"birthDate": "2006-09-07",
+		"class": "8/C"
+	},
+	{
+		"name": "Katona Orsolya",
+		"gender": "Nő",
+		"birthDate": "2007-05-01",
+		"class": "8/C"
+	},
+	{
+		"name": "Király Nóra",
+		"gender": "Nő",
+		"birthDate": "2007-05-07",
+		"class": "8/C"
+	},
+	{
+		"name": "Kiss Boglárka Éva",
+		"gender": "Nő",
+		"birthDate": "2006-07-23",
+		"class": "8/C"
+	},
+	{
+		"name": "Kiss Csenge",
+		"gender": "Nő",
+		"birthDate": "2007-02-20",
+		"class": "8/C"
+	},
+	{
+		"name": "Kocsis Adrienn",
+		"gender": "Nő",
+		"birthDate": "2006-12-04",
+		"class": "8/C"
+	},
+	{
+		"name": "Kovács Kristóf",
+		"gender": "Férfi",
+		"birthDate": "2006-08-22",
+		"class": "8/C"
+	},
+	{
+		"name": "Lakatos Sándor Imre",
+		"gender": "Férfi",
+		"birthDate": "2006-02-18",
+		"class": "8/C"
+	},
+	{
+		"name": "Márton Piroska",
+		"gender": "Nő",
+		"birthDate": "2007-02-01",
+		"class": "8/C"
+	},
+	{
+		"name": "Novák Enikő",
+		"gender": "Nő",
+		"birthDate": "2006-04-30",
+		"class": "8/C"
+	},
+	{
+		"name": "Novák Kálmán Szabolcs",
+		"gender": "Férfi",
+		"birthDate": "2007-07-31",
+		"class": "8/C"
+	},
+	{
+		"name": "Novák Lajos",
+		"gender": "Férfi",
+		"birthDate": "2006-11-23",
+		"class": "8/C"
+	},
+	{
+		"name": "Oláh András",
+		"gender": "Férfi",
+		"birthDate": "2007-04-29",
+		"class": "8/C"
+	},
+	{
+		"name": "Orsós István György",
+		"gender": "Férfi",
+		"birthDate": "2006-02-24",
+		"class": "8/C"
+	},
+	{
+		"name": "Papp Luca",
+		"gender": "Nő",
+		"birthDate": "2006-09-21",
+		"class": "8/C"
+	},
+	{
+		"name": "Péter Anett Sára",
+		"gender": "Nő",
+		"birthDate": "2007-08-11",
+		"class": "8/C"
+	},
+	{
+		"name": "Rácz Zoltán Iván",
+		"gender": "Férfi",
+		"birthDate": "2006-02-06",
+		"class": "8/C"
+	},
+	{
+		"name": "Sándor Ervin",
+		"gender": "Férfi",
+		"birthDate": "2007-06-10",
+		"class": "8/C"
+	},
+	{
+		"name": "Sándor Géza",
+		"gender": "Férfi",
+		"birthDate": "2007-04-12",
+		"class": "8/C"
+	},
+	{
+		"name": "Sándor Máté Soma",
+		"gender": "Férfi",
+		"birthDate": "2006-04-11",
+		"class": "8/C"
+	},
+	{
+		"name": "Szűcs János Ákos",
+		"gender": "Férfi",
+		"birthDate": "2006-05-12",
+		"class": "8/C"
+	},
+	{
+		"name": "Szücs Sára Virág",
+		"gender": "Nő",
+		"birthDate": "2006-12-21",
+		"class": "8/C"
+	},
+	{
+		"name": "Takács Beáta",
+		"gender": "Nő",
+		"birthDate": "2006-06-08",
+		"class": "8/C"
+	},
+	{
+		"name": "Takács Rozália",
+		"gender": "Nő",
+		"birthDate": "2007-03-08",
+		"class": "8/C"
+	},
+	{
+		"name": "Török Barbara",
+		"gender": "Nő",
+		"birthDate": "2006-04-17",
+		"class": "8/C"
+	},
+	{
+		"name": "Vass Magdolna Annamária",
+		"gender": "Nő",
+		"birthDate": "2007-01-19",
+		"class": "8/C"
+	},
+	{
+		"name": "Veres Kitti",
+		"gender": "Nő",
+		"birthDate": "2007-07-20",
+		"class": "8/C"
+	},
+	{
+		"name": "Vincze Zsuzsanna",
+		"gender": "Nő",
+		"birthDate": "2006-11-13",
+		"class": "8/C"
+	}
+]
